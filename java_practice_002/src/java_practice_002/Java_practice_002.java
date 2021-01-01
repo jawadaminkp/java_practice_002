@@ -25,6 +25,11 @@ public class Java_practice_002 {
         int mul = num1 * num2;
         
         System.out.print("Product is: " + mul);
+        
+        
+        int sub = num2- num1;
+        
+        System.out.print("Subtractino is: " + sub);
     }
     
 }

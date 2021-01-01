@@ -21,6 +21,10 @@ public class Java_practice_002 {
         System.out.print("Sum is: "+sum );
         
         System.out.println("@javadaminkp");
+        
+        int mul = num1 * num2;
+        
+        System.out.print("Product is: " + mul);
     }
     
 }
